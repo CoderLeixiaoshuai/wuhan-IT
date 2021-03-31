@@ -1,13 +1,51 @@
 :+1: 点右上角 `Star`，点亮你的头像，让武汉互联网氛围变得更好，早点回家 ！
 
-> 如果你对武汉互联网公司很熟悉，欢迎提交 `issue` 或者`PR`，期待你的参与。 
+> 如果你对武汉互联网公司很熟悉，欢迎提交 `Issue` 或者`PR`，期待你的参与。 
 >
-> 拒绝内卷：需要转载可以[联系我授权](#关于我)，恶意抄袭我会不惜一切代价维护权益，希望大家一起维护良好的创作环境。 
+> 如果对武汉互联网公司感兴趣，我会给你指导性意见，欢迎联系我一起探讨，[戳这里](#关于我)。 
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210327234101.png" width="" height="" alt="武汉互联网"/>
 </p>
+<div align="center">
+  	<a href="#关于我" target="_blank">
+      <img src="https://img.shields.io/badge/%E5%85%B3%E4%BA%8E%E6%88%91-%E9%9B%B7%E5%B0%8F%E5%B8%85-ef8b00"></a>
+     <a href="https://mp.weixin.qq.com/s?__biz=MzIwODI1OTk1Nw==&mid=2650322383&idx=1&sn=5c44ec61cd15af3a847998b841ae2537&chksm=8f09cbd5b87e42c3c1c1c506466901f9a1871071f4029eb789d437af9246c63e85a1e62b146f&token=334048773&lang=zh_CN#rd" target="_blank">
+      <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E7%88%B1%E7%AC%91%E7%9A%84%E6%9E%B6%E6%9E%84%E5%B8%88-ef8b00"></a> 
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E6%90%9C%E7%B4%A2-%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9B%B7%E5%B0%8F%E5%B8%85-ef8b00"></a>
+  <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/%E6%8A%96%E9%9F%B3%E6%90%9C%E7%B4%A2-%E7%A8%8B%E5%BA%8F%E5%91%98%E9%9B%B7%E5%B0%8F%E5%B8%85-ef8b00"></a>
+    <a href="https://juejin.im/user/3500462825546958/posts" target="_blank"> <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-juejin.im-ef8b00"></a>
+    <a href="https://blog.csdn.net/guoguo527" target="_blank"> <img src="https://img.shields.io/badge/CSDN-csdn.net-ef8b00"></a>
+    <a href="https://www.zhihu.com/people/ray-xiao-1/posts" target="_blank"> <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-zhihu.com-ef8b00"></a> 
+</div>
 
+# 武汉互联网公司分布
+
+| 公司分类         | 公司列表                                                     |
+| :--------------- | :----------------------------------------------------------- |
+| 大厂             | [字节跳动武汉研发中心](#字节跳动武汉研发中心) [华为武汉研究所](#华为武汉研究所) [斗鱼](#斗鱼) [腾讯云武汉研发中心](#腾讯云武汉研发中心) [科大讯飞武汉](#科大讯飞武汉) |
+| 雷军系           | [小米武汉研发中心](#小米武汉研发中心) [金山武汉研发中心](#金山武汉研发中心) [西山居武汉研发中心](#西山居武汉研发中心) [木仓科技](#木仓科技) |
+| 优质公司         | [ThoughtWorks](#ThoughtWorks) [石墨文档](#石墨文档) [小红书武汉研发中心](#小红书武汉研发中) [奇安信](#奇安信) [京东武汉京喜事业部](#京东武汉京喜事业部) [有赞武汉研发中心](#有赞武汉研发中心) |
+| 垂直领域独角兽   | 旷视科技 神策数据 途虎样车 海康威视 宝宝树武汉研发中心 青藤云 青云QingCloud 孚创 丰巢 人人网武汉研发中心 TCL 武汉研发中心 海信武汉研发中心 微派网络 盛天网络 明源云 |
+| 在线教育         | 跟谁学武汉研发中心 猿辅导 华图教育                           |
+| 银行类           | 九江银行武汉研发中心 农业银行武汉研发中心 浦发银行武汉研发中心 招银云创 |
+| 国企或者类似国企 | 银联商务 中国电子系统技术有限公司 统信软件 数字政通          |
+| 初创公司         | 伴伴 小药药 良品铺子 多点DMALL  航班管家 武汉风行在线 神州数码 小鱼易连 绿盟科技 绿网武汉研发中心 他趣 |
+
+# 进展
+
+白天『雷小帅』要上班，只能晚上捯饬更新，大家稍安勿躁，帮忙点个 Star 我会更有干劲哟~
+
+- [x] 大厂
+- [x] 雷军系
+- [ ] 优质公司
+- [ ] 垂直领域独角兽
+- [ ] 在线教育
+- [ ] 银行类
+- [ ] 国企或者类似国企
+- [ ] 初创公司
 
 # 大厂
 
@@ -151,7 +189,7 @@
 
 全资子公司岗位慎重考虑
 
-## 科大讯飞武汉全资子公司 
+## 科大讯飞武汉
 
 <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210327225154.png" width="" height="" alt="科大讯飞武汉"/>
 
@@ -423,10 +461,5 @@ TODO：待整理
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets@main/202012/20201205221844.png"></img>
 </div>
+关注后回复关键字『勾搭』即可看到我的个人微信，需要进技术交流群的，可以备注『加群学习』，群内有 BAT、字节、美团等大厂的大佬，还有北大硕士哦。不说话光看他们聊天都能学到东西。
 
-
-你还可以加我的个人微信，拉你进技术交流群，群内有 BAT、字节、美团等大厂的大佬，还有北大硕士哦。不说话光看他们聊天都能学到东西。
-
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets@main/202012/20201205222851.png"></img>
-</div>
