@@ -201,8 +201,9 @@
 ## 科大讯飞武汉
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210327225154.png" width="" height="" alt="科大讯飞武汉"/>
+<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210407202447.jpeg" width="" height="100" alt="科大讯飞武汉"/>
 </p>
+
 
 **1、简介**
 
@@ -231,8 +232,9 @@
 ## 小米武汉研发中心
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210327225645.png" width="" height="" alt="小米武汉"/>
+<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210407202259.jpeg" width="" height="100" alt="小米武汉"/>
 </p>
+
 
 **1、简介**
 
@@ -511,10 +513,11 @@ TODO：待整理
 >
 > 我有技术和故事，等你来。
 
-公众号比Github早一到两天更新，如果大家想要实时关注我更新的文章以及分享的干货，可以关注我的公众号，扫描二维码或者微信搜：爱笑的架构师
+如果你想回武汉，或者想跳槽，或者对武汉某某公司感兴趣，欢迎联系我呀，尽可能给你指导意见！
+
+关注公众号爱笑的架构师，回复关键字『`武汉互联网`』，即可联系我~
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets@main/202012/20201205221844.png"></img>
 </div>
-关注后回复关键字『勾搭』即可看到我的个人微信，需要进技术交流群的，可以备注『加群学习』，群内有 BAT、字节、美团等大厂的大佬，还有北大硕士哦。不说话光看他们聊天都能学到东西。
-
+另外我还建立了一个技术交流群，需要进群的，加微信可以备注『加群学习』，群内有 BAT、字节、美团等大厂的大佬，还有北大硕士哦。不说话光看他们聊天都能学到东西。
