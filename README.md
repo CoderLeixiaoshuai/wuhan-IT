@@ -315,8 +315,9 @@
 ## 木仓科技
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210327230004.png" width="" height="100" alt="木仓科技武汉"/>
+<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210407204948.jpeg" width="" height="100" alt="木仓科技武汉"/>
 </p>
+
 
 **1、简介**
 
