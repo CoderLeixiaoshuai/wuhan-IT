@@ -97,7 +97,7 @@
 
 赶上市前的末班车，能面上就去。
 
-## 华为武汉研所
+## 华为武汉研究所
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210312215929.png" width="" height="100" alt="华为武汉研究所"/>
