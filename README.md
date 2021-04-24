@@ -242,9 +242,8 @@
 ## 小米武汉研发中心
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210407202259.jpeg" width="" height="100" alt="小米武汉"/>
+<img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210424124957.png" width="" height="150" alt="小米武汉"/>
 </p>
-
 
 **1、简介**
 
