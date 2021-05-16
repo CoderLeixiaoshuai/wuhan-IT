@@ -1,13 +1,13 @@
 右上角 :point_right:  `Star`，点亮你的头像，让武汉互联网氛围变得更好，早点回家 ！
 
-:gift: :gift: 号外号外：『武汉互联网大全』已经整理成 PDF 电子书啦，新鲜出炉，[欢迎大家下载](#离线PDF下载) ！
+:gift: :gift: 号外号外：『武汉互联网大全』已经整理成 PDF 电子书啦，新鲜出炉，[欢迎大家下载](#离线pdf下载) ！
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/smileArchitect/assets/202102/20210327234101.png" width="" height="" alt="武汉互联网"/>
 </p>
 
 <div align="center">
-    <a href="#离线PDF下载" target="_blank"> <img src="https://img.shields.io/badge/PDF-%E7%A6%BB%E7%BA%BF%E7%89%88%E4%B8%8B%E8%BD%BD-ef8b00"></a>
+    <a href="#离线pdf下载" target="_blank"> <img src="https://img.shields.io/badge/PDF-%E7%A6%BB%E7%BA%BF%E7%89%88%E4%B8%8B%E8%BD%BD-ef8b00"></a>
   	<a href="#关于我" target="_blank">
       <img src="https://img.shields.io/badge/%E5%85%B3%E4%BA%8E%E6%88%91-%E9%9B%B7%E5%B0%8F%E5%B8%85-ef8b00"></a>
      <a href="#关于我" target="_blank">
@@ -1842,7 +1842,7 @@ C 轮
 
 
 
-# 离线PDF下载
+# 离线pdf下载
 
 有些小伙伴反馈 Github 在线预览慢，查看公司不方便，『雷小帅』专门制作了一个离线 PDF 版本，有详细的目录看起来非常清晰。
 
