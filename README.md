@@ -1842,11 +1842,13 @@ C 轮
 
 ## iGPSPORT武汉齐物科技
 
-<img src="https://quentin-md.oss-cn-shanghai.aliyuncs.com/img/2021/05/19/20210519103144.png" alt="image-20210519103144417" style="zoom: 50%;" />![image-20210519103218781](https://quentin-md.oss-cn-shanghai.aliyuncs.com/img/2021/05/19/20210519103218.png)
+<img src="https://quentin-md.oss-cn-shanghai.aliyuncs.com/img/2021/05/19/20210519103144.png" alt="image-20210519103144417" style="zoom: 50%;" />
 
 **1、简介**
 
 > iGPSPORT是武汉齐物科技旗下致力于骑行运动的品牌。武汉齐物科技有限公司主营系列化骑行运动智能软硬件，涵盖自行车智能GPS码表、心率监测器、自行车速度/踏频传感器等，软件产品涵盖iGPSPORT APP（Android及IOS）、云数据服务平台等。
+>
+> 公司网站：https://www.igpsport.cn/
 >
 > 公司介绍：[三分钟了解齐物](https://www.bilibili.com/video/BV15v41157uN/)
 
