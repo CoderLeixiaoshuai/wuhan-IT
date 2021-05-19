@@ -1840,7 +1840,47 @@ C 轮
 
 出行行业有潜力的初创公司
 
+## iGPSPORT武汉齐物科技
 
+<img src="https://quentin-md.oss-cn-shanghai.aliyuncs.com/img/2021/05/19/20210519103144.png" alt="image-20210519103144417" style="zoom: 50%;" />![image-20210519103218781](https://quentin-md.oss-cn-shanghai.aliyuncs.com/img/2021/05/19/20210519103218.png)
+
+**1、简介**
+
+> iGPSPORT是武汉齐物科技旗下致力于骑行运动的品牌。武汉齐物科技有限公司主营系列化骑行运动智能软硬件，涵盖自行车智能GPS码表、心率监测器、自行车速度/踏频传感器等，软件产品涵盖iGPSPORT APP（Android及IOS）、云数据服务平台等。
+>
+> 公司介绍：[三分钟了解齐物](https://www.bilibili.com/video/BV15v41157uN/)
+
+**2、薪资福利**
+
+- 定期骑行活动(每周)、年度骑行旅游、不定期马拉松(每月)；
+- 骑行行活动(每周)、年度骑行旅游、不定期马拉松(每月)；
+- 公积金8%
+- 补充商业险、年度体检
+- 车补、午餐补助
+
+**3、 工作时间**
+
+- 时间：9:00~18:30，1.5小时午休(12：30关灯，研发基本躺平，休息好才能有效工作)
+
+- 工作强度：提倡适度有效加班，保持有益身心的作息，根据项目情况，一般是每月1天；
+
+**4、工作地点**
+
+[创意天地04号创意工坊](https://map.baidu.com/search/%E6%AD%A6%E6%B1%89%E5%88%9B%E6%84%8F%E5%A4%A9%E5%9C%B0d%E5%8C%BA-04%E5%8F%B7%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A/@12726923.645,3543163.43,19z?querytype=s&da_src=shareurl&wd=%E6%AD%A6%E6%B1%89%E5%88%9B%E6%84%8F%E5%A4%A9%E5%9C%B0D%E5%8C%BA-04%E5%8F%B7%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A&c=218&src=0&wd2=%E6%AD%A6%E6%B1%89%E5%B8%82%E6%B4%AA%E5%B1%B1%E5%8C%BA&pn=0&sug=1&l=13&b=(12692513,3534810;12772033,3566074)&from=webmap&biz_forward=%7B%22scaler%22:1,%22styles%22:%22pl%22%7D&sug_forward=7b1fd748e76058c33310aff5&seckey=c6d9c7e05d7e627c56ed46fab5d7c5c792064779599d5e12b955a6f18a1204375d1588206c94d22e4bdd1ade0ad06e78c21917e24c6223b96bc51b75ca38651af660cf4edb67f3e05544dd97a750ebdb55eecbd7e16127eb8d43d36820cfc8bfb0a3e81204e2f0ea2f107cfa70d164e36edbd1b48297754077f9a04a84c8ff490966ae5da4f67bce41ed28c492b72a3f28e3d619b3d4c11fbac1a027ceebfe0b7803cfc11cbd4e7e17119570cebf8fd41e346995666bfb47378ad40d83d67193b8ba5ccf1ef3d03d59f4f27ffa6951f8299fd84b4e8d80dad32aaf136736736297e1fa2218a1e5923168e5da194bb600&device_ratio=1)：洪山区野芷湖西路16号，创意天地园区内（武汉著名网红打卡地之一）；
+
+低碳出行路线：地铁7号线板桥站与8号线马湖站、多路公交，直达园区门口；
+
+自驾车路线：临近二环线与三环线附近，二条环线出入口便利； 
+
+**5、一句话点评**
+
+致力于成为运动爱好者最爱的科技公司，用科技，让每个人更好的享受运动。
+
+![image-20210519105451060](https://quentin-md.oss-cn-shanghai.aliyuncs.com/img/2021/05/19/20210519105451.png)
+
+**6、岗位投递/招聘要求**
+
+[BOSS](https://www.zhipin.com/gongsi/ad21dfdfc5a62a850HV43tq_GQ~~.html?ka=company-intro)、猎聘、[前程无忧](https://jobs.51job.com/all/co3010108.html)
 
 # 离线pdf下载
 
